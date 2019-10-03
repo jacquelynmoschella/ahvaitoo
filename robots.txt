@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iethaideet.code4cocoa.com/sitemap.xml
